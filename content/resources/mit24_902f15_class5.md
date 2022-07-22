@@ -6,6 +6,7 @@ file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2015/e1d31f17a7c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 24.902F15 Class 5
 uid: e1d31f17-a7c8-47e7-c5ed-acbc92eac2b7
 ---
 This resource contains information regarding language and its structure II: Syntax.
-

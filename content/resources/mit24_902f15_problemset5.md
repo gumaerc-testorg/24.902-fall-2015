@@ -6,6 +6,7 @@ file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2015/5019f0f99d3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 24.902F15 Problem Set 5
 uid: 5019f0f9-9d31-0109-8ff7-eda8415d6054
 ---
 This resource contains information regarding language and its structure II: Syntax.
-

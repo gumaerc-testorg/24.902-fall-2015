@@ -6,6 +6,7 @@ file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2015/fd11abca3da
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 24.902F15 Problem Set 6
 uid: fd11abca-3da8-accd-7675-a925e85e5e53
 ---
 This resource contains information regarding language and its structure II: Syntax.
-
