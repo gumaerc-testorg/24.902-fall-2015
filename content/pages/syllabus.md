@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, requirements, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 1c5c3f5f-fc1e-021a-f246-3f7c91d08837
 ---
@@ -21,7 +25,7 @@ This class has its precursors in courses taught by David Pesetsky, Omer Preminge
 Prerequisites
 -------------
 
-[_24.900 Introduction to Linguistics_](/courses/24-900-introduction-to-linguistics-fall-2012/)
+[_24.900 Introduction to Linguistics_](/courses/24-900-introduction-to-linguistics-fall-2012)
 
 Requirements
 ------------

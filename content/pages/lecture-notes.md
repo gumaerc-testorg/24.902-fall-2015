@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains lecture notes to be used as primary readings for
+  this course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: cd2ec5a8-0fd7-7d6c-43b9-c95bcdb2a6d8
 ---
@@ -32,7 +37,7 @@ LECTURE NOTES
 The Hierarchical Organization of Language
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 1 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class1)
+{{% resource_link 3952515b-5dbb-2156-3cb3-ed5df618fa85 "Class 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +49,7 @@ The Hierarchical Organization of Language
 More on Building Syntactic Trees; Plus Locality Considerations; Theta-Roles
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 2 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class2)
+{{% resource_link 126d0b25-f9aa-43ae-ab81-e282a69ffe02 "Class 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +61,7 @@ More on Building Syntactic Trees; Plus Locality Considerations; Theta-Roles
 More on Theta-Roles; Case; Basics of Binding Theory
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 3 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit24_902f15_class3)
+{{% resource_link 80dd28de-36b7-331d-7be7-a229c4f9e226 "Class 3 (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +73,7 @@ More on Theta-Roles; Case; Basics of Binding Theory
 Binding Theory; Syntactic Movement; Embedded vs. Matrix Questions; and Wh-movement
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 4 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class4)
+{{% resource_link c8a77ae4-6237-e0ac-aa42-6a2e1cb5e61a "Class 4 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +85,7 @@ Binding Theory; Syntactic Movement; Embedded vs. Matrix Questions; and Wh-moveme
 Islands and Movement
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 5 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class5)
+{{% resource_link e1d31f17-a7c8-47e7-c5ed-acbc92eac2b7 "Class 5 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +97,7 @@ Islands and Movement
 Verb Movement
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 6 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class6)
+{{% resource_link a4eba80b-6433-8f30-2602-2b6f93f2c900 "Class 6 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +109,7 @@ Verb Movement
 A-movement 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 8 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class8)
+{{% resource_link f0dfb029-3678-5199-8eda-3baf1ca42127 "Class 8 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +121,7 @@ A-movement 
 More on Movement
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 9 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class9)
+{{% resource_link 27c905c3-55a4-92bc-73a6-99f3a78b4a84 "Class 9 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +133,7 @@ More on Movement
 The Uniformity of Theta Assignment Hypothesis (UTAH)
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 10 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class10)
+{{% resource_link aa3ae223-fc28-d62a-2bce-04828786715a "Class 10 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,7 +145,7 @@ The Uniformity of Theta Assignment Hypothesis (UTAH)
 Empirical Arguments for PRO
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Class 11 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class11)
+{{% resource_link 652fd9df-69a4-c84a-7186-3b89118daaca "Class 11 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +157,7 @@ Empirical Arguments for PRO
 Obligatory and Non-obligatory Control
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 12 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class12)
+{{% resource_link 0a357425-ec7f-dec3-0fb9-b638596b74d8 "Class 12 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +169,7 @@ Obligatory and Non-obligatory Control
 Pro versus PRO
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 13 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class13)
+{{% resource_link a807c56b-d3d3-d1d0-bd99-4ee86f75947c "Class 13 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,7 +181,7 @@ Pro versus PRO
 Covert Movement
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 14 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class14)
+{{% resource_link fb041f7e-cdcb-fe5a-b033-ca0cf4d1ed88 "Class 14 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -188,7 +193,7 @@ Covert Movement
 Tense and Aspect
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 15 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class15)
+{{% resource_link 3951816f-9b3f-c79b-6eeb-d047f12334bc "Class 15 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -200,7 +205,7 @@ Tense and Aspect
 Polysynthesis
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 16 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class16) - Lecture notes for this session provided by the teaching assistant, Michelle Yuan.
+{{% resource_link 1a995f79-649b-2195-614c-b4b9f14fe8b9 "Class 16 (PDF)" %}} - Lecture notes for this session provided by the teaching assistant, Michelle Yuan.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -212,7 +217,7 @@ Polysynthesis
 Conditionals
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 17 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class17)
+{{% resource_link 839302c7-ebec-9180-8dc3-535714a3ec61 "Class 17 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,7 +229,7 @@ Conditionals
 Free Relatives
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 19 (PDF)]({{< baseurl >}}/resources/mit24_902f15_class19)
+{{% resource_link 168496bc-7678-872c-96c6-cbdaafeaa0a8 "Class 19 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
