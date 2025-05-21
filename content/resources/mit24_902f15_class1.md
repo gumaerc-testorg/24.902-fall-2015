@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding language and its structure
   II: Syntax.'
-file: /ol-ocw-studio-app/courses/24-902-language-and-its-structure-ii-syntax-fall-2015/3952515b5dbb21563cb3ed5df618fa85_MIT24_902F15_Class1.pdf
+file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2015/3952515b5dbb21563cb3ed5df618fa85_MIT24_902F15_Class1.pdf
 file_size: 332818
 file_type: application/pdf
 learning_resource_types:
